@@ -1,6 +1,7 @@
 # Clustering KMeans Method
 Clustering with KMeans and AgglomerativeClustering  
+Dataset: Plants medicinal product data sales
 
-Library spesifically:  
+Spesifically library:  
 • from sklearn.cluster import KMeans  
 • from sklearn.cluster import AgglomerativeClustering  
