@@ -4,5 +4,5 @@
 2 Dataset: Proportion of individuals using the internet by province in 2017-2019
 
 Specifically library:  
-• from sklearn.cluster import KMeans  
-• from sklearn.cluster import AgglomerativeClustering
+- from sklearn.cluster import KMeans  
+- from sklearn.cluster import AgglomerativeClustering
